@@ -3,5 +3,6 @@ line 2
 line 3
 line 4 edited 
 line 5 edited
-line 6 
+line 6 edited
+line new was added.
 line 7
